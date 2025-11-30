@@ -319,18 +319,6 @@ a {
         font-size: 24px;
     }
 
-    .font-h3 {
-        font-size: 18px;
-    }
-
-    .font-h4 {
-        font-size: 16px;
-    }
-
-    .font-h5 {
-        font-size: 14px;
-    }
-
     .section-padding {
         padding: 32px 0;
     }
@@ -398,22 +386,6 @@ a {
 
     .font-h2 {
         font-size: 20px;
-    }
-
-    .font-h3 {
-        font-size: 16px;
-    }
-
-    .font-h4 {
-        font-size: 14px;
-    }
-
-    .font-h5 {
-        font-size: 12px;
-    }
-
-    .font-h6 {
-        font-size: 11px;
     }
 
     .section-padding {
