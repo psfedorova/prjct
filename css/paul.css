@@ -101,7 +101,26 @@ footer {
 }
 
 .card-1:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+    transition: 0.25s ease;
+}
+
+.btn-main:hover,
+.btn-secondary:hover,
+.btn-outline-brand:hover {
+    opacity: 0.9;
     transform: translateY(-2px);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
+    transition: 0.2s ease;
+}
+
+.service-image:hover {
+    transform: scale(1.03);
+    transition: 0.3s ease;
+}
+
+.comparison-table tr:hover {
+    background-color: #f6f6f6;
+    transition: 0.2s ease;
 }
 
