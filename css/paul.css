@@ -134,8 +134,12 @@ footer {
         margin-bottom: 24px;
     }
 
-    .content-padding {
+    .content-padding-top {
         margin-top: 20px;
+    }
+
+    .content-padding-bottom {
+        margin-bottom: 20px;
     }
 }
 
@@ -149,7 +153,11 @@ footer {
         margin-bottom: 28px;
     }
 
-    .content-padding {
-        margin-top: 24px;
+    .content-padding-top {
+        margin-top: 20px;
+    }
+
+    .content-padding-bottom {
+        margin-bottom: 20px;
     }
 }
