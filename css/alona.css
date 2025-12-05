@@ -466,3 +466,9 @@ a {
         gap: 0px;
     }
 }
+
+@media (min-width: 1200px) {
+    .m-left {
+        margin-left: 32px;
+    }
+}
