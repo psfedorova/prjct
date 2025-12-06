@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    let photos = ["images/owner.webp", "images/girl1.webp", "images/man.webp", "images/girl2.webp"];
+    let photos = ["images/alex-thompson.webp", "images/maria-garcia.webp", "images/david-kim.webp", "images/lisa-anderson.webp"];
     let names = ["Alex Thompson", "Maria Garcia", "David Kim", "Lisa Anderson"];
     let roles = ["Founder & CEO", "Head of Product", "Lead Developer", "Customer Success"];
     let descs = [
